@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: ¡Hola!
+    title: ¡Hola! Soy Luis Miguel
     content: >
       Personas sobre procesos. Te invito para que en este blog pongamos en
       practica este valor del [manifiesto ágil ](https://agilemanifesto.org/)y
