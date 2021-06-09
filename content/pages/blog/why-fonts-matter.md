@@ -49,6 +49,8 @@ Una de mis mayores aficiones es tocar la batería. Me encanta. Es una sensación
 
 
 
+
+
 ![](/\_static/app-assets/images/smart-jupiter.jfif)<https://www.youtube.com/watch?v=_uVb7Ju8VQk>
 
 En las clasificaciones que se hacen sobre cuales son los 10 mejores bateristas, siempre van a encontrar este nombre Buddy Rich. Un monstro. El muy sabiamente dijo esto:
