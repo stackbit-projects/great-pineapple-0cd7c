@@ -23,7 +23,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Cuentame mas
+        label: Cuentame ms
         default_value: Your message
       - input_type: checkbox
         name: consent
