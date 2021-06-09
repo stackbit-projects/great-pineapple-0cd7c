@@ -41,4 +41,8 @@ layout: post
 ---
 Me sentí desafiado cuando en un video de [Platzi](https://platzi.com/home) decían que todos deberíamos escribir un blog. Pues, bueno acá estoy cumpliendo este desafío, pasando de ser consumidor a creador. 
 
-Una de mis mayores aficiones es tocar la batería. Me encanta. Es una sensación increíble(Los músicos me entienden). Algo que me fascina de este instrumento es su nobleza, básicamente por que no es un instrumento protagonista, los bateristas por lo general estamos atrás del escenario, en cada canción no hay un solo de batería, podemos hacer el mismo patrón de ritmo en toda la canción. Pero, sin la batería la canción no sonaría igual. Piensa en esta canción sin la batería.![](/\_static/app-assets/images/BuddyRichFrases.JPG)<https://www.youtube.com/watch?v=_uVb7Ju8VQk>
+Una de mis mayores aficiones es tocar la batería. Me encanta. Es una sensación increíble(Los músicos me entienden). Algo que me fascina de este instrumento es su nobleza, básicamente por que no es un instrumento protagonista, los bateristas por lo general estamos atrás del escenario, en cada canción no hay un solo de batería, podemos hacer el mismo patrón de ritmo en toda la canción. Pero, sin la batería la canción no sonaría igual. Piensa en esta canción sin la batería.
+
+
+
+![](/\_static/app-assets/images/smart-jupiter.jfif)<https://www.youtube.com/watch?v=_uVb7Ju8VQk>
