@@ -17,7 +17,7 @@ sections:
       compartiré sobre temas diferentes a la agilidad, pero que se complementan
       ¡Disfrútalo!
     actions:
-      - label: Let's talk
+      - label: Hablemos
         url: /contact
         style: button
   - section_id: latest-projects
