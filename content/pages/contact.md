@@ -22,7 +22,7 @@ sections:
         default_value: ¿Me regalas tu correo?
         is_required: true
       - input_type: select
-        name: ¿Cómo podriamos ayudarnos?
+        name: ¿Cómo podríamos ayudarnos?
         label: Subject
         default_value: Please select
         options:
