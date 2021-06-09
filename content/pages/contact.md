@@ -25,11 +25,6 @@ sections:
         name: message
         label: Cuentame más
         default_value: Déjeme tu mensaje
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
     submit_label: Send Message
 seo:
   title: Contact
