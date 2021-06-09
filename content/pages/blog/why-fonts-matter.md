@@ -3,7 +3,7 @@ title: "Batería\_y agilidad"
 date: '2021-04-27'
 thumb_image: /images/drums.jfif
 thumb_image_alt: A pile of books on the table
-image: images/12.jpg
+image: /images/modern-celery.jfif
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
