@@ -43,11 +43,11 @@ Me sentí desafiado cuando en un video de [Platzi](https://platzi.com/home) d
 
 Una de mis mayores aficiones es tocar la batería. Me encanta. Es una sensación increíble(Los músicos me entienden). Algo que me fascina de este instrumento es su nobleza, básicamente por que no es un instrumento protagonista, los bateristas por lo general estamos atrás del escenario, en cada canción no hay un solo de batería, podemos hacer el mismo patrón de ritmo en toda la canción. Pero, sin la batería la canción no sonaría igual. Piensa en esta canción sin la batería.
 
-\<iframe>\</iframe>
+ \<iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>\</iframe> 
 
-\<iframe width="645" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>\</iframe>
 
-![](/\_static/app-assets/images/smart-jupiter.jfif)<https://www.youtube.com/watch?v=_uVb7Ju8VQk>
+
+<https://www.youtube.com/watch?v=_uVb7Ju8VQk>
 
 En las clasificaciones que se hacen sobre cuales son los 10 mejores bateristas, siempre van a encontrar este nombre Buddy Rich. Un monstro. El muy sabiamente dijo esto:
 
