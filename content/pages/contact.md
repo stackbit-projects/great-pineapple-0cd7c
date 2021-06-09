@@ -17,7 +17,7 @@ sections:
         is_required: true
         default_value: ¿Cómo te llamas?
       - input_type: email
-        name: ¿Tu correo?
+        name: Tu Correo
         label: Tu Correo
         default_value: Your email address
         is_required: true
