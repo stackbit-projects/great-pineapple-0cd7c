@@ -2,7 +2,7 @@
 title: Blog
 subtitle: 'Agile, drums, run, cycling, cook'
 hide_title: false
-col_number: three
+col_number: two
 seo:
   title: Blog
   description: This is the blog page
