@@ -24,7 +24,7 @@ sections:
       - input_type: textarea
         name: message
         label: Cuentame más
-        default_value: Dejámé tu mensaje
+        default_value: Dejáme tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
