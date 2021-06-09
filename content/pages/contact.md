@@ -19,7 +19,7 @@ sections:
       - input_type: email
         name: Tu Correo
         label: Tu Correo
-        default_value: ¿
+        default_value: ¿Me regalas tu correo?
         is_required: true
       - input_type: select
         name: subject
