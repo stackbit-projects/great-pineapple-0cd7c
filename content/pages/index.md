@@ -5,9 +5,17 @@ sections:
   - section_id: hero
     type: section_hero
     title: ¡Hola!
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Personas sobre procesos. Te invito para que en este blog pongamos en
+      practica este valor del [manifiesto ágil ](https://agilemanifesto.org/)y
+      compartamos sobre como podemos cambiar las organizaciones, las formas de
+      trabajo y hacer que el propósito de las personas se alinea al de las
+      organizaciones 
+
+
+      Creo que los hobbies definen a las personas. Por lo tanto, también te
+      compartiré sobre temas diferentes a la agilidad, pero que se complementan
+      ¡Disfrútalo!
     actions:
       - label: Let's talk
         url: /contact
