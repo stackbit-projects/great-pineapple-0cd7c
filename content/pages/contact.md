@@ -25,7 +25,7 @@ sections:
         name: message
         label: Cuentame más
         default_value: Déjeme tu mensaje
-    submit_label: Send Message
+    submit_label: Enviar
 seo:
   title: Contact
   description: This is the contact page
