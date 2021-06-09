@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: 'Agile, drums, run, cycling, cook'
 hide_title: false
 col_number: three
 seo:
