@@ -1,7 +1,7 @@
 ---
 title: "Batería\_y agilidad"
 excerpt: asd
-date: '2019-08-27'
+date: '2021-04-27'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
 image: images/12.jpg
