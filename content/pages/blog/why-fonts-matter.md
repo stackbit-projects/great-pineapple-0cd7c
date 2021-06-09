@@ -1,5 +1,5 @@
 ---
-title: sdasd
+title: "Batería\_y agilidad"
 excerpt: asd
 date: '2019-03-27'
 thumb_image: images/12_thumb.jpg
