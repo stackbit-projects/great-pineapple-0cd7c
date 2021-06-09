@@ -13,7 +13,7 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Tu Nombre
+        label: ¿Com
         default_value: Tu nombre
         is_required: true
       - input_type: email
